@@ -16,6 +16,7 @@ export default defineConfig({
     manifest: true,
   },
   publicPath: '/StellerProfile/',
+  base: '/StellerProfile/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
