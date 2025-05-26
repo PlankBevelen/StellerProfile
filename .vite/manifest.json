@@ -1,0 +1,222 @@
+{
+  "_index-BNQi8ri0.js": {
+    "file": "assets/index-BNQi8ri0.js",
+    "name": "index",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_index-DvJ3witA.js"
+    ],
+    "dynamicImports": [
+      "node_modules/dompurify/dist/purify.es.mjs",
+      "node_modules/canvg/lib/index.es.js"
+    ],
+    "css": [
+      "assets/index-DBWw_NyL.css"
+    ]
+  },
+  "_index-DBWw_NyL.css": {
+    "file": "assets/index-DBWw_NyL.css",
+    "src": "_index-DBWw_NyL.css"
+  },
+  "_index-DvJ3witA.js": {
+    "file": "assets/index-DvJ3witA.js",
+    "name": "index",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "index.html": {
+    "file": "assets/index-BNfsHRSS.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/views/StellerProfile.vue",
+      "src/views/HomeView.vue",
+      "_index-BNQi8ri0.js",
+      "src/views/TemplatesView/index.vue",
+      "src/views/AIPolishView/index.vue",
+      "src/views/ProfileView/index.vue",
+      "src/views/ResumeEdit/index.vue",
+      "src/views/Login/index.vue",
+      "src/views/Registe/index.vue",
+      "src/views/Forget/index.vue"
+    ],
+    "css": [
+      "assets/index-D-9F-vAw.css"
+    ]
+  },
+  "node_modules/canvg/lib/index.es.js": {
+    "file": "assets/index.es-Cer_zBF4.js",
+    "name": "index.es",
+    "src": "node_modules/canvg/lib/index.es.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_index-BNQi8ri0.js",
+      "_index-DvJ3witA.js"
+    ]
+  },
+  "node_modules/dompurify/dist/purify.es.mjs": {
+    "file": "assets/purify.es-Bf0oSh3b.js",
+    "name": "purify.es",
+    "src": "node_modules/dompurify/dist/purify.es.mjs",
+    "isDynamicEntry": true
+  },
+  "src/assets/homeview/bg1.png": {
+    "file": "assets/bg1-DeGj3Qwi.png",
+    "src": "src/assets/homeview/bg1.png"
+  },
+  "src/assets/profileview/bg1.jpg": {
+    "file": "assets/bg1-B-0EnUJ5.jpg",
+    "src": "src/assets/profileview/bg1.jpg"
+  },
+  "src/views/AIPolishView/index.vue": {
+    "file": "assets/index-QR2oyXao.js",
+    "name": "index",
+    "src": "src/views/AIPolishView/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_index-DvJ3witA.js"
+    ],
+    "css": [
+      "assets/index-BBmD6lhZ.css"
+    ]
+  },
+  "src/views/Forget/index.vue": {
+    "file": "assets/index-DQu7gCuj.js",
+    "name": "index",
+    "src": "src/views/Forget/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_index-DvJ3witA.js"
+    ],
+    "css": [
+      "assets/index-B3JCiFYe.css"
+    ]
+  },
+  "src/views/HomeView.vue": {
+    "file": "assets/HomeView-Cr2RD0vE.js",
+    "name": "HomeView",
+    "src": "src/views/HomeView.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/HomeView-DYMjqTXa.css"
+    ],
+    "assets": [
+      "assets/bg1-DeGj3Qwi.png"
+    ]
+  },
+  "src/views/Login/index.vue": {
+    "file": "assets/index-Czywyr4j.js",
+    "name": "index",
+    "src": "src/views/Login/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_index-DvJ3witA.js"
+    ],
+    "css": [
+      "assets/index-BfR4o56t.css"
+    ]
+  },
+  "src/views/ProfileView/index.vue": {
+    "file": "assets/index-D6Se3z6J.js",
+    "name": "index",
+    "src": "src/views/ProfileView/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_index-DvJ3witA.js"
+    ],
+    "css": [
+      "assets/index-CtMwqh1o.css"
+    ],
+    "assets": [
+      "assets/bg1-B-0EnUJ5.jpg"
+    ]
+  },
+  "src/views/Registe/index.vue": {
+    "file": "assets/index-BKMhw-70.js",
+    "name": "index",
+    "src": "src/views/Registe/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_index-DvJ3witA.js"
+    ],
+    "css": [
+      "assets/index-Bx5j1N0O.css"
+    ]
+  },
+  "src/views/ResumeEdit/index.vue": {
+    "file": "assets/index-DfpTrGfd.js",
+    "name": "index",
+    "src": "src/views/ResumeEdit/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_index-DvJ3witA.js"
+    ],
+    "css": [
+      "assets/index-D4Oxme9g.css"
+    ]
+  },
+  "src/views/StellerProfile.vue": {
+    "file": "assets/StellerProfile-gZgRh8XU.js",
+    "name": "StellerProfile",
+    "src": "src/views/StellerProfile.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/StellerProfile-DFp9SceR.css"
+    ]
+  },
+  "src/views/TemplatesView/assets/1.png": {
+    "file": "assets/1-BHglKOlE.png",
+    "src": "src/views/TemplatesView/assets/1.png"
+  },
+  "src/views/TemplatesView/assets/2.png": {
+    "file": "assets/2-xtMkWkb-.png",
+    "src": "src/views/TemplatesView/assets/2.png"
+  },
+  "src/views/TemplatesView/assets/3.png": {
+    "file": "assets/3-D7nHnHl7.png",
+    "src": "src/views/TemplatesView/assets/3.png"
+  },
+  "src/views/TemplatesView/assets/4.png": {
+    "file": "assets/4-B0iXyi0v.png",
+    "src": "src/views/TemplatesView/assets/4.png"
+  },
+  "src/views/TemplatesView/assets/5.png": {
+    "file": "assets/5-CQZlLxkx.png",
+    "src": "src/views/TemplatesView/assets/5.png"
+  },
+  "src/views/TemplatesView/index.vue": {
+    "file": "assets/index-D5gC10CX.js",
+    "name": "index",
+    "src": "src/views/TemplatesView/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/index-BIdHo_XT.css"
+    ],
+    "assets": [
+      "assets/1-BHglKOlE.png",
+      "assets/2-xtMkWkb-.png",
+      "assets/3-D7nHnHl7.png",
+      "assets/4-B0iXyi0v.png",
+      "assets/5-CQZlLxkx.png"
+    ]
+  }
+}
