@@ -11,6 +11,12 @@ export default defineConfig({
     vueDevTools(),
   ],
   base: '/StellerProfile/',
+  build: {
+    assetsDir: 'assets',
+    emptyOutDir: true,
+    outDir: 'dist/StellerProfile',
+    manifest: true,
+  },
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
